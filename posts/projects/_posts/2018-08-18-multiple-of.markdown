@@ -13,7 +13,7 @@ First of all, if you know a clean way to convert `GetSumOfMultiplesOf` into a mo
 
 I also couldn't think of a better name for the variables `_multipleOf01` and `_multipleOf02`. It's might be slightly confusing that you are getting the multiple of `01` or `02`, but the name is supposed to represent the input, of which there are 2.
 
-Apparently I wrote the initial version of this back in November 2013. Nearly 5 years ago.
+Apparently I wrote the initial version of this back in November 2013. Nearly 5 years ago. I can't find the original link to where I thought to do this challenge, but I'm pretty sure it was from Reddit.
 
 Looking back at it, I was pretty happy with the result. When I wrote this, I would have been a fresh graduate from college, only a few months out.
 

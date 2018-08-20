@@ -8,3 +8,5 @@ category: [blog, project]
 ---
 
 <iframe width="960" height="660px" style="margin-left: -100px;" src="/assets/projects/Dijkstra/index.html" frameborder="0"></iframe>
+
+<a href="https://github.com/jacobschellenberg/DijkstraPathfinding.git">View on Github</a>

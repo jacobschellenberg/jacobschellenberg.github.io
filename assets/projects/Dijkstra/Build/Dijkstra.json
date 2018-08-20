@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "AITutorial",
+"companyName": "Jacob Schellenberg",
+"productName": "Dijkstra Pathfinding",
 "dataUrl": "Dijkstra.data.unityweb",
 "wasmCodeUrl": "Dijkstra.wasm.code.unityweb",
 "wasmFrameworkUrl": "Dijkstra.wasm.framework.unityweb",

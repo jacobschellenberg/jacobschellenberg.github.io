@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-20T12:02:17-07:00</updated><id>http://localhost:4000/</id><title type="html">Schellex Software</title><subtitle></subtitle><entry><title type="html">Dijkstra Pathfinding</title><link href="http://localhost:4000/posts/projects/blog/project/2018/08/19/dijkstra-pathfinding.html" rel="alternate" type="text/html" title="Dijkstra Pathfinding" /><published>2018-08-19T07:00:00-07:00</published><updated>2018-08-19T07:00:00-07:00</updated><id>http://localhost:4000/posts/projects/blog/project/2018/08/19/dijkstra-pathfinding</id><content type="html" xml:base="http://localhost:4000/posts/projects/blog/project/2018/08/19/dijkstra-pathfinding.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-23T07:23:14-07:00</updated><id>http://localhost:4000/</id><title type="html">Schellex Software</title><subtitle></subtitle><entry><title type="html">Block Building</title><link href="http://localhost:4000/posts/projects/blog/project/2018/08/23/block-building.html" rel="alternate" type="text/html" title="Block Building" /><published>2018-08-23T07:00:00-07:00</published><updated>2018-08-23T07:00:00-07:00</updated><id>http://localhost:4000/posts/projects/blog/project/2018/08/23/block-building</id><content type="html" xml:base="http://localhost:4000/posts/projects/blog/project/2018/08/23/block-building.html">&lt;hr /&gt;
+
+&lt;iframe width=&quot;960&quot; height=&quot;660px&quot; style=&quot;margin-left: -100px;&quot; src=&quot;/assets/projects/BlockBuilding/index.html&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jacobschellenberg/BlockBuilding.git&quot;&gt;View on Github&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="[&quot;blog&quot;, &quot;project&quot;]" /><summary type="html"></summary></entry><entry><title type="html">Dijkstra Pathfinding</title><link href="http://localhost:4000/posts/projects/blog/project/2018/08/19/dijkstra-pathfinding.html" rel="alternate" type="text/html" title="Dijkstra Pathfinding" /><published>2018-08-19T07:00:00-07:00</published><updated>2018-08-19T07:00:00-07:00</updated><id>http://localhost:4000/posts/projects/blog/project/2018/08/19/dijkstra-pathfinding</id><content type="html" xml:base="http://localhost:4000/posts/projects/blog/project/2018/08/19/dijkstra-pathfinding.html">&lt;hr /&gt;
 
 &lt;iframe width=&quot;960&quot; height=&quot;660px&quot; style=&quot;margin-left: -100px;&quot; src=&quot;/assets/projects/Dijkstra/index.html&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
@@ -36,7 +40,7 @@
       &lt;li&gt;Integrate with AWS/S3, Steam API&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Title: The Endless Mission Tools Programming - Unity, C# Developed Unity editor tools, runtime level editing tools, runtime gameplay modding tools, and in-game data-driven content portal Integrate with AWS/S3, Steam API</summary></entry><entry><title type="html">Unity Gameplay Programmer at Skydive Academy</title><link href="http://localhost:4000/posts/resume/blog/2018/08/09/unity-gameplay-programmer-at-skydive-academy.html" rel="alternate" type="text/html" title="Unity Gameplay Programmer at Skydive Academy" /><published>2018-08-09T07:00:00-07:00</published><updated>2018-08-09T07:00:00-07:00</updated><id>http://localhost:4000/posts/resume/blog/2018/08/09/unity-gameplay-programmer-at-skydive-academy</id><content type="html" xml:base="http://localhost:4000/posts/resume/blog/2018/08/09/unity-gameplay-programmer-at-skydive-academy.html">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;blog&quot;, &quot;resume&quot;]" /><summary type="html">Title: The Endless Mission Tools Programming - Unity, C# Developed Unity editor tools, runtime level editing tools, runtime gameplay modding tools, and in-game data-driven content portal Integrate with AWS/S3, Steam API</summary></entry><entry><title type="html">Unity Gameplay Programmer at Skydive Academy</title><link href="http://localhost:4000/posts/resume/blog/2018/08/09/unity-gameplay-programmer-at-skydive-academy.html" rel="alternate" type="text/html" title="Unity Gameplay Programmer at Skydive Academy" /><published>2018-08-09T07:00:00-07:00</published><updated>2018-08-09T07:00:00-07:00</updated><id>http://localhost:4000/posts/resume/blog/2018/08/09/unity-gameplay-programmer-at-skydive-academy</id><content type="html" xml:base="http://localhost:4000/posts/resume/blog/2018/08/09/unity-gameplay-programmer-at-skydive-academy.html">&lt;ul&gt;
   &lt;li&gt;Title: &lt;a href=&quot;http://www.skydiveacademy.com/skydivr-index/#skydivr-mobile&quot; target=&quot;_blank&quot;&gt;skydiVR&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Virtual Reality Development - Unity, C#, Oculus
     &lt;ul&gt;
@@ -68,62 +72,4 @@
 &lt;/ul&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Developed windows application plugin that exported data from a SQL database into a human readable, and application digestible XML file. - C#</summary></entry><entry><title type="html">Web Developer at Grand Canyon University</title><link href="http://localhost:4000/posts/resume/blog/2018/08/05/web-developer-at-grand-canyon-university.html" rel="alternate" type="text/html" title="Web Developer at Grand Canyon University" /><published>2018-08-05T07:00:00-07:00</published><updated>2018-08-05T07:00:00-07:00</updated><id>http://localhost:4000/posts/resume/blog/2018/08/05/web-developer-at-grand-canyon-university</id><content type="html" xml:base="http://localhost:4000/posts/resume/blog/2018/08/05/web-developer-at-grand-canyon-university.html">&lt;ul&gt;
   &lt;li&gt;Developed websites used in classrooms from given requirements - HTML, CSS, Angular, PHP, MySQL
 Full stack from backend to frontend&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Developed websites used in classrooms from given requirements - HTML, CSS, Angular, PHP, MySQL Full stack from backend to frontend</summary></entry><entry><title type="html">Unity Gameplay Programmer at PING</title><link href="http://localhost:4000/posts/resume/blog/2018/08/04/unity-gameplay-programmer-at-ping.html" rel="alternate" type="text/html" title="Unity Gameplay Programmer at PING" /><published>2018-08-04T07:00:00-07:00</published><updated>2018-08-04T07:00:00-07:00</updated><id>http://localhost:4000/posts/resume/blog/2018/08/04/unity-gameplay-programmer-at-ping</id><content type="html" xml:base="http://localhost:4000/posts/resume/blog/2018/08/04/unity-gameplay-programmer-at-ping.html">&lt;ul&gt;
-  &lt;li&gt;UI Programming - Unity, C#
-    &lt;ul&gt;
-      &lt;li&gt;Implemented UI (menus, npc and gameplay interactions, help masks)&lt;/li&gt;
-      &lt;li&gt;Implemented dynamic, data-driven gameplay UI&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Gameplay Programming
-    &lt;ul&gt;
-      &lt;li&gt;Implemented gameplay (hazard detection, question popups, scoring system, timers, level switching, rapid prototyping)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;initialize&quot;&gt;Initialize&lt;/h3&gt;
-&lt;p&gt;One thing that stinks about a project failing, is that there is a pretty good chance you’ll have nothing to show.&lt;/p&gt;
-
-&lt;p&gt;At PING, we worked hard for 11 months, and then one day we were ushered out, never to hear about our game again.&lt;/p&gt;
-
-&lt;p&gt;PING was my first gig right out of college. In fact, I technically had the job two weeks before I graduated, but arranged to start after classes ended.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-interview&quot;&gt;The Interview&lt;/h3&gt;
-&lt;p&gt;I remember being nervous, and excited, but feeling confident for the interview. I mean they contacted ME. Well, they contacted the career services department, and they recommended ME. This guy. That’s right.&lt;/p&gt;
-
-&lt;p&gt;So I’m sitting there in a corner with imposter syndrome crawling down my back.&lt;/p&gt;
-
-&lt;p&gt;It was my first, real industry interview. I had practiced interviews with a couple of instructors, which really helped, but only so much.&lt;/p&gt;
-
-&lt;p&gt;I was given a test before the interview, I might still have it… I’ll try to find it. I was given a design document for a trivia-quiz-like game, and I had to write up a document breaking down the time each element would take to implement. I had to break down UI and gameplay, and basically show that I was capable of taking a huge end-goal, and turning it into milestones and bite sized tasks.&lt;/p&gt;
-
-&lt;p&gt;As I was working on the breakdown, I had the thought that I would try to actually create the game too. There was enough information there to at least get it started. So in Unity, I created the menu system, and a rough implementation of taking a quiz that had a question and 4 answers.&lt;/p&gt;
-
-&lt;p&gt;I showed this thing that I was proud of to one of my instructors and he insisted that I didn’t show it during the interview because it wasn’t polished or even close to complete.&lt;/p&gt;
-
-&lt;p&gt;So I’m in the interview showing them this thing I built.&lt;/p&gt;
-
-&lt;p&gt;It turns out, they loved the initiative. They loved that I was able to breakdown the document and started working on the project.&lt;/p&gt;
-
-&lt;p&gt;The rest of the interview I can’t really remember, but I do remember being asked this:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Her: “How do you feel about your working being 80% programming, and 20% documentation?”&lt;/li&gt;
-  &lt;li&gt;Me: “That sounds good to me.”&lt;/li&gt;
-  &lt;li&gt;Her: “How about 60% programming, and 40% documentation?”&lt;/li&gt;
-  &lt;li&gt;Me: “I’d still be okay with that”&lt;/li&gt;
-  &lt;li&gt;Her: “What about 20% programming, and 80% documentation?”&lt;/li&gt;
-  &lt;li&gt;Me: “I’d still do it”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Now, keep in mind. I was extremely hungry for this job. My first job in the game industry. I would have cleaned the toilets just to put on my resume I worked in the same building where a game was being made.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PING: “Supported the developers by ensuring they had clean facilities.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Luckily it didn’t go that way, and I really was programming like 90% of the time.&lt;/p&gt;
-
-&lt;p&gt;I recall it taking a couple of days for them to get back to me. All of which of course I was very anxious to know whether or not I got the job. Even an email saying I &lt;em&gt;DID NOT&lt;/em&gt; get the job would have made me feel better than the unknown.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><summary type="html">UI Programming - Unity, C# Implemented UI (menus, npc and gameplay interactions, help masks) Implemented dynamic, data-driven gameplay UI Gameplay Programming Implemented gameplay (hazard detection, question popups, scoring system, timers, level switching, rapid prototyping)</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Developed websites used in classrooms from given requirements - HTML, CSS, Angular, PHP, MySQL Full stack from backend to frontend</summary></entry></feed>

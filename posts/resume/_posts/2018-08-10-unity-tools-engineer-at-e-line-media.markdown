@@ -2,7 +2,7 @@
 layout: post
 title:  "Unity Tools Engineer at E-Line Media"
 date:   2018-08-10 07:00:00 -0700
-category: blog
+category: [blog, resume]
 ---
 
 

@@ -84,3 +84,7 @@ I've been on a security/privacy binge these last couple weeks. I can't put my fi
 ### JEKYLL
 * The quick start on the Jekyll home page didn't work for me, I had to follow these steps.
 [https://jekyllrb.com/docs/installation/ubuntu/](https://jekyllrb.com/docs/installation/ubuntu/)
+
+## SSH KEYS
+* [https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+* `ssh-add ~/.ssh/id_rsa`

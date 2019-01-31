@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Ubuntu Setup | Schellex Software</title>
+<meta name="generator" content="Jekyll v3.6.2" />
+<meta property="og:title" content="Ubuntu Setup" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I’ve been on a security/privacy binge these last couple weeks. I can’t put my finger exactly on what kicked it off, but it comes down to this: I want control over my data. This is less of a blog post, and more of a reference to the things that I did to help secure and take control of my data. I’d say it’s mostly for future me, since it’s specific to my hardware and needs, but perhaps there is something in here that will help you. Take a gander." />
+<meta property="og:description" content="I’ve been on a security/privacy binge these last couple weeks. I can’t put my finger exactly on what kicked it off, but it comes down to this: I want control over my data. This is less of a blog post, and more of a reference to the things that I did to help secure and take control of my data. I’d say it’s mostly for future me, since it’s specific to my hardware and needs, but perhaps there is something in here that will help you. Take a gander." />
+<link rel="canonical" href="http://localhost:4000/posts/daily/blog/2019/01/30/ubuntu-setup.html" />
+<meta property="og:url" content="http://localhost:4000/posts/daily/blog/2019/01/30/ubuntu-setup.html" />
+<meta property="og:site_name" content="Schellex Software" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-01-30T07:00:00-07:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/daily/blog/2019/01/30/ubuntu-setup.html"},"@type":"BlogPosting","url":"http://localhost:4000/posts/daily/blog/2019/01/30/ubuntu-setup.html","dateModified":"2019-01-30T07:00:00-07:00","datePublished":"2019-01-30T07:00:00-07:00","headline":"Ubuntu Setup","description":"I’ve been on a security/privacy binge these last couple weeks. I can’t put my finger exactly on what kicked it off, but it comes down to this: I want control over my data. This is less of a blog post, and more of a reference to the things that I did to help secure and take control of my data. I’d say it’s mostly for future me, since it’s specific to my hardware and needs, but perhaps there is something in here that will help you. Take a gander.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Schellex Software" /></head>
+<body><header class="site-header" role="banner">
+    <div class="wrapper">
+        
+        
+        <a class="site-title" rel="author" href="/">Schellex Software</a>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124640099-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124640099-1');
+</script>
+        
+        <nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+            <label for="nav-trigger">
+            <span class="menu-icon">
+                <svg viewBox="0 0 18 15" width="18px" height="15px">
+                <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+                </svg>
+            </span>
+            </label>
+
+            <div class="trigger">
+            
+                
+                
+            
+                
+                
+                <a class="page-link" href="/pages/about.html">About</a>
+                
+            
+                
+                
+                <a class="page-link" href="/pages/blog.html">Blog</a>
+                
+            
+                
+                
+                <a class="page-link" href="/pages/challenges.html">Challenges</a>
+                
+            
+                
+                
+            
+                
+                
+                <a class="page-link" href="/pages/projects.html">Projects</a>
+                
+            
+                
+                
+            
+                
+                
+            
+            </div>
+        </nav>
+        
+    </div>
+</header><main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Ubuntu Setup</h1>
+    <p class="post-meta">
+      <time datetime="2019-01-30T07:00:00-07:00" itemprop="datePublished">
+        
+        Jan 30, 2019
+      </time>
+      <span class="post-meta">- <span class="reading-time" title="Estimated read time">
+  
+  
+    3 minutes
+  
+  to read
+</span></span>
+      </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>I’ve been on a security/privacy binge these last couple weeks. I can’t put my finger exactly on what kicked it off, but it comes down to this: <em>I want control over my data.</em> This is less of a blog post, and more of a reference to the things that I did to help secure and take control of my data. I’d say it’s mostly for future me, since it’s specific to my hardware and needs, but perhaps there is something in here that will help you. Take a gander.</p>
+
+<h1 id="intial-setup">Intial Setup</h1>
+<h2 id="helpful-commands">Helpful Commands</h2>
+
+<h3 id="update-packages">Update Packages</h3>
+<ul>
+  <li>
+    <p><code class="highlighter-rouge">sudo apt-get update</code> # must run first</p>
+  </li>
+  <li>
+    <p><code class="highlighter-rouge">sudo apt-get install</code> # then run to install updates</p>
+  </li>
+</ul>
+
+<h3 id="fix-package-dependencies">Fix Package Dependencies</h3>
+<ul>
+  <li>If a <code class="highlighter-rouge">sudo apt-get install *.package</code> fails, follow it with:</li>
+  <li><code class="highlighter-rouge">sudo apt-get -f install</code></li>
+</ul>
+
+<h3 id="install-package">Install Package</h3>
+<ul>
+  <li><code class="highlighter-rouge">sudo dpkg -i *.deb</code></li>
+</ul>
+
+<h3 id="extract-tarballtar">Extract tarball.tar</h3>
+<ul>
+  <li>
+    <p><code class="highlighter-rouge">tar -xvf *.tar</code></p>
+  </li>
+  <li>-x : Extract a tar ball.</li>
+  <li>-v : Verbose output or show progress while extracting files.</li>
+  <li>-f : Specify an archive or a tarball filename.</li>
+  <li>-j : Decompress and extract the contents of the compressed archive created by bzip2 program (tar.bz2 extension).</li>
+  <li>-z : Decompress and extract the contents of the compressed archive created by gzip program (tar.gz extension).</li>
+</ul>
+
+<h2 id="late-2013-macbook-pro-specific">Late 2013 Macbook Pro Specific</h2>
+<h3 id="wireless-driver">Wireless Driver</h3>
+<ul>
+  <li>If you don’t tether via bluetooh, you’ll have to gather all the dependencie files from another machine.</li>
+  <li>Wait you don’t have another machine? Chicken/Egg!</li>
+</ul>
+
+<ol>
+  <li>Tether to bluetooth internets (tethered to my android phone)</li>
+  <li>sudo apt-get update</li>
+  <li>sudo apt-get install</li>
+  <li>Copy <code class="highlighter-rouge">pool &gt; restricted &gt; b &gt; bcmwl &gt; *.deb</code> to desktop</li>
+  <li>Copy <code class="highlighter-rouge">pool &gt; main &gt; d &gt; dkms &gt; *.deb</code> to desktop</li>
+  <li>Open Terminal to desktop</li>
+  <li>sudo dpkg -i *.deb</li>
+</ol>
+
+<ul>
+  <li><a href="https://packages.ubuntu.com/trusty/admin/bcmwl-kernel-source">https://packages.ubuntu.com/trusty/admin/bcmwl-kernel-source</a></li>
+</ul>
+
+<h3 id="computer-setup">Computer Setup</h3>
+<ul>
+  <li>Firefox addons:</li>
+  <li>Privacy Badger: <a href="https://www.eff.org/privacybadger">https://www.eff.org/privacybadger</a></li>
+  <li>uBlock Origin: <a href="https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/">https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/</a></li>
+  <li>Cookie AutoDelete: <a href="https://addons.mozilla.org/en-GB/firefox/addon/cookie-autodelete/">https://addons.mozilla.org/en-GB/firefox/addon/cookie-autodelete/</a></li>
+  <li>HTTPS Everywhere: <a href="https://www.eff.org/https-everywhere">https://www.eff.org/https-everywhere</a></li>
+  <li>Decentraleyes: <a href="https://addons.mozilla.org/en-GB/firefox/addon/decentraleyes/">https://addons.mozilla.org/en-GB/firefox/addon/decentraleyes/</a></li>
+</ul>
+
+<h3 id="change-splash-screen">Change splash screen</h3>
+<ul>
+  <li>Themes used to be installed in a different location. Just use the new location and you should be good.</li>
+  <li>
+    <p>New location is: <code class="highlighter-rouge">/user/share/plymouth/themes/</code></p>
+  </li>
+  <li>
+    <p><code class="highlighter-rouge">sudo cp -R ./vinyl /usr/share/plymouth/themes/</code> # copy the theme directory to the new location</p>
+  </li>
+  <li>
+    <p><code class="highlighter-rouge">sudo ln -sf /usr/share/plymouth/themes/vinyl/vinyl.plymouth /etc/alternatives/default.plymouth</code> # create a link and copy contents to the default.plymouth file</p>
+  </li>
+  <li><code class="highlighter-rouge">sudo update-initramfs -u -k all</code> # Update the bootloader/splash screen references?</li>
+</ul>
+
+<h3 id="gnome-tweak-tool">Gnome Tweak Tool</h3>
+<ul>
+  <li>Use this to hide the trashcan…</li>
+  <li><code class="highlighter-rouge">sudo apt install gnome-tweak-tool</code></li>
+</ul>
+
+<h3 id="helpful-links">Helpful Links:</h3>
+<ul>
+  <li>Privacy Tools: <a href="https://www.privacytools.io/">https://www.privacytools.io/</a> # Follow the Firefox about:config stuff</li>
+</ul>
+
+<h3 id="things-to-install">Things to Install</h3>
+<ul>
+  <li><code class="highlighter-rouge">sudo apt install tlp</code> # auto battery management - better battery life</li>
+  <li><code class="highlighter-rouge">sudo apt install git</code> # source control</li>
+  <li><code class="highlighter-rouge">sudo apt install vscode</code> # programming, dotnet core</li>
+  <li><code class="highlighter-rouge">sudo apt install gnome-tweak-tool</code> # Hide the trashcan on desktop</li>
+</ul>
+
+<h3 id="ruby">RUBY</h3>
+<ul>
+  <li><code class="highlighter-rouge">sudo apt install ruby</code></li>
+  <li><code class="highlighter-rouge">sudo apt install ruby-bundler</code></li>
+</ul>
+
+<h3 id="jekyll">JEKYLL</h3>
+<ul>
+  <li>The quick start on the Jekyll home page didn’t work for me, I had to follow these steps.
+<a href="https://jekyllrb.com/docs/installation/ubuntu/">https://jekyllrb.com/docs/installation/ubuntu/</a></li>
+</ul>
+
+  </div>
+
+  
+</article>
+      </div>
+    </main><footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-12">
+          <ul class="contact-list">
+            <li class="p-name"><a href="https://www.linkedin.com/in/jacobschellenberg/" target="_blank"><img style="width:100px;margin-top:8px;" src="/assets/img/linkedin-logo.png"></a></li>
+          </ul>
+        </div>
+        <div class="footer-col footer-col-12">
+            <ul class="contact-list">
+              <li class="p-name"><a href="https://github.com/jacobschellenberg" target="_blank"><img style="width:100px;margin-left:-8px;" src="/assets/img/github-logo.png"></a></li>
+            </ul>
+          </div>
+        <div class="footer-col footer-col-12">
+          <ul class="contact-list">
+            <li class="p-name"><a data-tweet-limit="1" class="twitter-timeline" href="https://twitter.com/schellexdotcom?ref_src=twsrc%5Etfw">Last Tweet by schellexdotcom</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+
+  <div style="text-align:center">
+    All content copyright <a href="/">Schellex Software</a> © 2018 • All rights reserved.
+  </div>
+</footer>
+    </body>
+
+</html>

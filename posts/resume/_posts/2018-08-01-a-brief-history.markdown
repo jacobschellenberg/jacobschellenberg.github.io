@@ -5,7 +5,8 @@ date:   2018-08-01 07:00:00 -0700
 category: Home
 ---
 
-[Unity Tools Engineer at E-Line Media]({{ site.baseurl }}{% post_url 2018-08-10-unity-tools-engineer-at-e-line-media %}) <img style="width:25px;" src="/assets/img/e-line-media-logo.png"> | July 2017 - Present
+[Full Stack Engineer at Tivity Health]({{ site.baseurl }}{% post_url 2018-11-12-full-stack-engineer-at-tivity-health %}) <img style="width:25px;" src="/assets/img/tivity-logo.png"> | November 2018 - Present
+[Unity Tools Engineer at E-Line Media]({{ site.baseurl }}{% post_url 2018-08-10-unity-tools-engineer-at-e-line-media %}) <img style="width:25px;" src="/assets/img/e-line-media-logo.png"> | July 2017 - November 2018
 [Unity Gameplay Programmer at Skydive Academy]({{ site.baseurl }}{% post_url 2018-08-09-unity-gameplay-programmer-at-skydive-academy %}) <img style="width:50px;" src="/assets/img/skydive-academy-logo.png"> | November 2016 - November 2017
 [Adjust Faculty Instructor at The Art Institute of Phoenix]({{ site.baseurl }}{% post_url 2018-08-08-adjuct-faculty-instructor-at-the-art-institute-of-phoenix %}) <img style="width:30px;" src="/assets/img/art-institute-logo.png"> | April 2016 - June 2016
 [Software Developer at InkSoft]({{ site.baseurl }}{% post_url 2018-08-07-software-developer-at-inksoft %}) <img style="width:25px;" src="/assets/img/inksoft-logo.png"> | February 2015 - July 2017
